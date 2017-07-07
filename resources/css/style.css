@@ -1,0 +1,29 @@
+body {
+ font-family: Helvetica;
+ text-align: center;
+
+}
+
+.nav-links {
+  color: white;
+  font-size: 18px;
+}
+
+#footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
+  padding: 4px 8px
+}
+
+#footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#footer li {
+  display: inline;
+  margin: 2px;
+}
