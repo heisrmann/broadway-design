@@ -9,6 +9,24 @@ body {
   font-size: 18px;
 }
 
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+  margin: 0;
+  padding: 8px;
+}
+
+#masthead {
+  background-image: url('../images/the-flatiron-building.png');
+}
+
+#masthead li {
+  font-weight: 600;
+  padding: 8px;
+  
+}
+
 #footer {
   background-color: dimgray;
   color: white;
@@ -17,7 +35,7 @@ body {
   padding: 4px 8px
 }
 
-#footer ul {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
