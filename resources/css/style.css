@@ -38,6 +38,10 @@ ul {
   font-size: 18px;
 }
 
+.about-section {
+  padding: 16px 0px;
+}
+
 /*ids by layout position*/
 
 #masthead {
